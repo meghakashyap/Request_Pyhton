@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "id": "3846",
+            "parent_exercise_id": null,
+            "name": "Student Safeguarding Policy",
+            "slug": "student-policies__Student_Safeguarding_Policy",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Student_Safeguarding_Policy.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3848",
+            "parent_exercise_id": null,
+            "name": "Academic Probation Policy",
+            "slug": "student-policies__Academic_Probation_Policy",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Academic_Probation_Policy.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3850",
+            "parent_exercise_id": null,
+            "name": "Cultural Probation Policy",
+            "slug": "student-policies__Cultural_Probation_Policy",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Cultural_Probation_Policy.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3847",
+            "parent_exercise_id": null,
+            "name": "Leave Policy for Students",
+            "slug": "student-policies__Leave_Policy",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Leave_Policy.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3849",
+            "parent_exercise_id": null,
+            "name": "Laptop Policy and Procedure Handbook",
+            "slug": "student-policies__Laptop_Policy",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Laptop_Policy.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3851",
+            "parent_exercise_id": null,
+            "name": "COVID Policies",
+            "slug": "student-policies__COVID_Policies",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/COVID_Policies.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3852",
+            "parent_exercise_id": null,
+            "name": "Alumni Policy",
+            "slug": "student-policies__Alumni_policy",
+            "sequence_num": 600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/student-policies/Alumni_policy.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
